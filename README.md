@@ -1,5 +1,5 @@
 # mailahpai.github.io
-![Profile Picture](https://github.com/mailahpai/Photo/raw/main/IMG_6825.JPG)
+<img src="https://github.com/mailahpai/Photo/raw/main/IMG_6825.JPG" width="30%" align="right">
 
 # _Lu Lu Mai Lahpai_
 
